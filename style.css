@@ -1,0 +1,88 @@
+.full-body{
+    width: 100%;
+    height: 500rem;
+    background-color: black;
+}
+
+.header{
+    width: 100%;
+    height: 56px;
+    
+}
+
+.start{
+    width: 300px;
+    height: 50px;
+    float: left;
+}
+
+.youtube-logo{
+    width: fit-content;
+    height: fit-content;
+    float: left;
+    margin: 0;
+
+}
+
+.youtube-write{
+   float: left;
+   width: fit-content;
+   color: white;
+   font-weight:700;
+   font-size: 20px;
+   margin-left: 4px;
+   text-decoration: none;
+   
+
+}
+
+#hamburger-icon div {
+    width: 20px;
+    height: 1px;
+    background-color: white;
+    margin: 6px 0;
+    transition: 0.4s;
+  }
+
+  .nav-menu{
+    float: left;
+    margin-left: 30px;
+    margin-top: 19px;
+    
+  }
+
+  .logo-write-div{
+    float: left;
+    width: fit-content;
+    height: 100%;
+    margin-left: 30px;
+    margin-top: 16px;
+  }
+
+  .search-bar{
+  
+    float: left;
+    margin-left: 23rem;
+    margin-top: 1rem;
+    width: 35rem;
+    height: 2.7rem;
+    border-radius: 41px 0px 0px 41px;
+    border-width: 2px;
+    border-color: aliceblue;
+  }
+
+  .search-box{
+    width: 30rem;
+    height: 2.7rem;
+    background-color: black;
+    margin-left: 14px;
+        float: left;
+  }
+
+  .search-icon{
+     background-color: rgb(49, 49, 49);
+height: 2.7rem;
+    width: 4rem;
+    float: left;  
+    border-radius: 0px 41px 41px 0px;
+  }
